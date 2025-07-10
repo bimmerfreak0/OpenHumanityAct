@@ -1,4 +1,4 @@
-er# 🌍 The Open Humanity Act
+# 🌍 The Open Humanity Act
 
 **A Global Declaration for Equitable Access to Foundational Knowledge**
 
@@ -17,39 +17,39 @@ This initiative proposes open, universal access to the most critical forms of hu
 ## 📜 What's Inside
 
 - `OpenHumanityAct.md` — the full text of the declaration
-- Frameworks for ethical AI use in knowledge mediation
-- Principles for open-source collaboration on global human rights and access
-- Early roadmap for implementation, governance, and outreach
+- A structured breakdown of **Primary** and **Enabling** domains of knowledge
+- An ethical framework for AI systems interacting with this knowledge
+- Proposed paths for global governance, licensing, and stewardship
 
 ---
 
 ## 🧱 Foundational Domains
 
-The Act defines **Primary Domains** such as:
-- Medical knowledge
-- Legal systems
-- Financial transparency
-- Theological and philosophical resources
-- Scientific and environmental data
-- Historical and cultural truths
+### **Primary Domains**
+- Medical Knowledge  
+- Legal Frameworks  
+- Financial Literacy and Data  
+- Theological and Philosophical Texts  
+- Scientific and Environmental Knowledge  
+- Historical and Cultural Truths  
 
-And **Enabling Domains** like:
-- Educational infrastructure
-- Open technology and digital access
+### **Enabling Domains**
+- Educational Infrastructure and Literacy  
+- Technological Standards and Digital Access  
 
 ---
 
 ## 🤝 How to Get Involved
 
 This project is open to:
-- Lawyers, educators, ethicists, theologians, technologists, and scholars
+- Lawyers, educators, ethicists, theologians, technologists, scientists, and scholars
 - Anyone who believes that truth should be shared — not sold
 
-You can contribute by:
-- Creating issues for suggested edits or additions
-- Translating the Act into your native language
-- Proposing derivative charters for your institution or field
-- Sharing the initiative with your network
+Ways to contribute:
+- Submit issues for suggested edits, improvements, or additions
+- Translate the Act into other languages
+- Propose regional or institutional adaptations
+- Share and promote the initiative across your networks
 
 ---
 
@@ -57,13 +57,23 @@ You can contribute by:
 
 **Ryan Spencer**  
 Attorney and founder of the Open Humanity Act initiative  
-https://www.linkedin.com/in/ryan-spencer-74897552/ • ryan.a.spencer1@gmail.com
+[https://www.linkedin.com/in/ryan-spencer-74897552/] • https://github.com/bimmerfreak0
 
 ---
 
 ## 🛡️ License
 
-To be determined — this work will likely adopt a permissive license (e.g., Creative Commons Attribution 4.0) to encourage sharing and translation, while protecting against misuse or distortion. Stay tuned.
+This work is licensed under the  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
+
+This means:
+- You may copy, redistribute, and translate the work.
+- You may adapt or build upon it (e.g. for educational use or derivative charters).
+- You must credit the original author.
+- You may **not** use it commercially.
+- Any derivative works must use the same license.
+
+🔗 [Full license text here](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
