@@ -1,4 +1,4 @@
-# 🌍 The Open Humanity Act
+er# 🌍 The Open Humanity Act
 
 **A Global Declaration for Equitable Access to Foundational Knowledge**
 
@@ -55,9 +55,9 @@ You can contribute by:
 
 ## 📬 Contact / Author
 
-**Ryan [Last Name]**  
+**Ryan Spencer**  
 Attorney and founder of the Open Humanity Act initiative  
-[LinkedIn] • [Email or GitHub profile link]
+https://www.linkedin.com/in/ryan-spencer-74897552/ • ryan.a.spencer1@gmail.com
 
 (You can customize this section as needed.)
 
