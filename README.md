@@ -59,8 +59,6 @@ You can contribute by:
 Attorney and founder of the Open Humanity Act initiative  
 https://www.linkedin.com/in/ryan-spencer-74897552/ • ryan.a.spencer1@gmail.com
 
-(You can customize this section as needed.)
-
 ---
 
 ## 🛡️ License
